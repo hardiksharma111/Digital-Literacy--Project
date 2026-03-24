@@ -28,7 +28,7 @@ This repository serves as my official Digital Literacy Portfolio. As a Student D
 * **Goal:** Practice technical problem-solving and cloud-based teamwork.
 * **Coding Platform:** HackerRank / CodeChef
 * **Collaboration Tool:** Google Forms (Digital Literacy Awareness Quiz)()
-* **Quiz Link:** [Paste your Google Form Link here](https://docs.google.com/forms/d/e/1FAIpQLSeEAZIqkAz14w8lsT66-Zm0dXg9FeVgUNaFVMW1yy5WHOnXvA/viewform?usp=publish-editor)
+* **Quiz Link:** [Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSeEAZIqkAz14w8lsT66-Zm0dXg9FeVgUNaFVMW1yy5WHOnXvA/viewform?usp=publish-editor)
 
 ### Task 4: Professional Communication
 * **Goal:** Master professional email drafting and social media responsibility.
